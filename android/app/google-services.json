@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258205121309",
+    "project_id": "data-storage-1ef35",
+    "storage_bucket": "data-storage-1ef35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258205121309:android:5297688b2ce36d146f3ff4",
+        "android_client_info": {
+          "package_name": "com.example.database_practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBywX17LsVVONR7EpezO24QwFzsVuUydDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
